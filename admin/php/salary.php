@@ -99,6 +99,6 @@ $show2=mysqli_query($conn,$sql2);
                 ?>
               </table>
        
-        <!--<button  onclick="document.location.href='Aiub .html'" id="back">Back</button> -->
+       
     </body>
 </html>

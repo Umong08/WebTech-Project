@@ -1,11 +1,11 @@
 body {
-    background-color: rgb(149, 248, 244);
+    background-color: rgb(15, 255, 247);
 
 
 }
 
 #id1 {
-    /*to make the blocks*/
+
     background-color: rgb(44, 200, 205);
     padding: 10px;
     margin: auto;
@@ -17,7 +17,7 @@ body {
 }
 
 #id2 {
-    /*to make the iframe*/
+
     background-color: rgb(15, 16, 16);
     padding: 4px;
     margin-bottom: 0px;
@@ -57,10 +57,7 @@ header {
 
 }
 
-#logout
-
-/*logout button*/
-    {
+#logout {
     background-color: rgb(206, 63, 63);
     padding: 10px;
     padding: 2px;
@@ -73,10 +70,7 @@ header {
     height: 35px;
 }
 
-#back
-
-/*back*/
-    {
+#back {
     background-color: rgb(189, 228, 15);
     padding: 10px;
     padding: 2px;
@@ -105,8 +99,7 @@ header {
     display: none;
     position: absolute;
     background-color: rgb(245, 244, 247);
-    /*min-width: 100px;
-  box-shadow:0px 8px 16px 0px rgba(0,0,0,0.2);*/
+
     z-index: 1;
 
 }
