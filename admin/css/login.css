@@ -1,0 +1,32 @@
+div {
+    background-color: rgb(172, 250, 249);
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 400px;
+    height: 500px;
+    position: absolute;
+    left: 550px;
+    top: 50px;
+
+}
+
+button {
+    background-color: rgb(38, 183, 232);
+    padding: 4px;
+    border: 2px;
+    width: 90px;
+    height: 30px;
+    border-style: outset;
+    font-size: 10px;
+}
+
+input[type=text],
+input[type=password] {
+    width: 250px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: medium;
+
+}
