@@ -19,7 +19,8 @@ button {
   height: 40px; 
   border-radius: 8px;
   font-size: 14px; 
-  border-style: outset;
+  border-style: outset; 
+  
 }
 
 input[type=text], 
